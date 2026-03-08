@@ -1,8 +1,8 @@
 class GithubOrgReposSync < Formula
   desc "Sync all repositories from a GitHub organization locally"
   homepage "https://github.com/xbglowx/github-org-repos-sync"
-  url "https://github.com/xbglowx/github-org-repos-sync/archive/refs/tags/v0.1.5.tar.gz"
-  sha256 "a9a36e6eb18d5d406f0af4f51aff52b0e8b93477c21bdb154dff76ab6b26294d"
+  url "https://github.com/xbglowx/github-org-repos-sync/archive/refs/tags/v0.1.6.tar.gz"
+  sha256 "cb5d28be91dd329a43e97077bbfaddd489ae5bf13a1ab2f14b05c9f376eee625"
   license "MPL-2.0"
 
   depends_on "go" => :build
