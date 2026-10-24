@@ -1,8 +1,8 @@
 class VaultKvSearch < Formula
   desc "Recursively search secrets in HashiCorp Vault KV stores"
   homepage "https://github.com/xbglowx/vault-kv-search"
-  url "https://github.com/xbglowx/vault-kv-search/archive/refs/tags/v0.6.0.tar.gz"
-  sha256 "3e2c725d9a4b19318cd483600dd617c2c2fa6a3ffa351d2b14fa9bb6cbb30438"
+  url "https://github.com/xbglowx/vault-kv-search/archive/refs/tags/v0.7.0.tar.gz"
+  sha256 "2799884b4dddf723c4420944c37609a943ac5b8ea9fab696f08077776fb02792"
   license "MPL-2.0"
 
   depends_on "go" => :build
