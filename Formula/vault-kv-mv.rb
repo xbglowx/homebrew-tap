@@ -1,8 +1,8 @@
 class VaultKvMv < Formula
   desc "Move and rename secrets in HashiCorp Vault KV stores"
   homepage "https://github.com/xbglowx/vault-kv-mv"
-  url "https://github.com/xbglowx/vault-kv-mv/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "4f033c28bcb589b2cc1d1da7246b4827aa54e5ce9830b453542fc7840d7bddfb"
+  url "https://github.com/xbglowx/vault-kv-mv/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "9c4b069ed67aeaf4ddd18f31201769d7b223bfba9fc015e28e3b69a8f620b261"
   license "MPL-2.0"
 
   depends_on "go" => :build
